@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="D:\Downloads\MyOhanaCare_Yan_R-main\MyOhanaCare_Yan_R-main\android\app"
+    name=":app"
+    type="APP"
+    maven="android:app:"
+    agpVersion="8.0.0"
+    buildFolder="D:\Downloads\MyOhanaCare_Yan_R-main\MyOhanaCare_Yan_R-main\build\app"
+    bootClassPath="C:\Users\G\AppData\Local\Android\sdk\platforms\android-34\android.jar;C:\Users\G\AppData\Local\Android\sdk\build-tools\30.0.3\core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-34">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="release"/>
+</lint-module>

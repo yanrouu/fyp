@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">110425275736-hsc8es3k152d9dl6ojbjqhakf12dvhf9.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">110425275736</string>
+    <string name="google_api_key" translatable="false">AIzaSyBZt8AgEB7g1XhG88sRvx9tWCT99mFlPAk</string>
+    <string name="google_app_id" translatable="false">1:110425275736:android:5529f06f5bde72d03b792d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBZt8AgEB7g1XhG88sRvx9tWCT99mFlPAk</string>
+    <string name="google_storage_bucket" translatable="false">ohana-cares.appspot.com</string>
+    <string name="project_id" translatable="false">ohana-cares</string>
+    <style name="LaunchTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        
+        <item name="android:windowBackground">@drawable/launch_background</item>
+    </style>
+    <style name="NormalTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        <item name="android:windowBackground">?android:colorBackground</item>
+    </style>
+</resources>

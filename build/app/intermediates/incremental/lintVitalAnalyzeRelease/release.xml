@@ -1,0 +1,36 @@
+<variant
+    name="release"
+    package="com.kitahack.ohana_care"
+    minSdkVersion="26"
+    targetSdkVersion="34"
+    shrinking="true"
+    mergedManifest="D:\Downloads\MyOhanaCare_Yan_R-main\MyOhanaCare_Yan_R-main\build\app\intermediates\merged_manifest\release\AndroidManifest.xml"
+    proguardFiles="D:\Downloads\MyOhanaCare_Yan_R-main\MyOhanaCare_Yan_R-main\build\app\intermediates\default_proguard_files\global\proguard-android.txt-8.0.0;D:\flutter\packages\flutter_tools\gradle\flutter_proguard_rules.pro;proguard-rules.pro"
+    partialResultsDir="D:\Downloads\MyOhanaCare_Yan_R-main\MyOhanaCare_Yan_R-main\build\app\intermediates\lint_vital_partial_results\release\out"
+    desugaredMethodsFiles="C:\Users\G\.gradle\caches\transforms-3\be745164c008aabd9b509a4a3e382524\transformed\D8BackportedDesugaredMethods.txt">
+  <buildFeatures
+      namespacing="REQUIRED"/>
+  <sourceProviders>
+    <sourceProvider
+        manifests="src\main\AndroidManifest.xml"
+        javaDirectories="src\main\java;src\main\kotlin;src\release\java;src\release\kotlin"
+        resDirectories="src\main\res;src\release\res"
+        assetsDirectories="src\main\assets;src\release\assets"/>
+  </sourceProviders>
+  <testSourceProviders>
+  </testSourceProviders>
+  <testFixturesSourceProviders>
+  </testFixturesSourceProviders>
+  <manifestPlaceholders>
+    <placeholder
+        name="applicationName"
+        value="android.app.Application" />
+  </manifestPlaceholders>
+  <mainArtifact
+      classOutputs="D:\Downloads\MyOhanaCare_Yan_R-main\MyOhanaCare_Yan_R-main\build\app\intermediates\javac\release\classes;D:\Downloads\MyOhanaCare_Yan_R-main\MyOhanaCare_Yan_R-main\build\app\tmp\kotlin-classes\release;D:\Downloads\MyOhanaCare_Yan_R-main\MyOhanaCare_Yan_R-main\build\app\kotlinToolingMetadata;D:\Downloads\MyOhanaCare_Yan_R-main\MyOhanaCare_Yan_R-main\build\app\intermediates\compile_and_runtime_not_namespaced_r_class_jar\release\R.jar"
+      applicationId="com.kitahack.ohana_care"
+      generatedSourceFolders="D:\Downloads\MyOhanaCare_Yan_R-main\MyOhanaCare_Yan_R-main\build\app\generated\ap_generated_sources\release\out"
+      generatedResourceFolders="D:\Downloads\MyOhanaCare_Yan_R-main\MyOhanaCare_Yan_R-main\build\app\generated\res\google-services\release;D:\Downloads\MyOhanaCare_Yan_R-main\MyOhanaCare_Yan_R-main\build\app\generated\res\resValues\release"
+      desugaredMethodsFiles="C:\Users\G\.gradle\caches\transforms-3\be745164c008aabd9b509a4a3e382524\transformed\D8BackportedDesugaredMethods.txt">
+  </mainArtifact>
+</variant>

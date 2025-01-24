@@ -1,0 +1,1 @@
+ D:\\Downloads\\MyOhanaCare_Yan_R-main\\MyOhanaCare_Yan_R-main\\.dart_tool\\flutter_build\\f8c165130ad5360948eca991fe4327b3\\native_assets.yaml: 
